@@ -89,7 +89,7 @@ CSV HEADER;
 -- copy additional data (week-53) in cust_detail table (remember to update the file name and file location in below query)
 
 COPY cust_detail
-FROM 'D:\cust_add.csv' 
+FROM 'D:\cust_add.csv' --Acording to your file location.
 DELIMITER ',' 
 CSV HEADER;
 
