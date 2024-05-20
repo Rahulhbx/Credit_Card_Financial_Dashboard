@@ -52,7 +52,7 @@ CREATE TABLE cust_detail (
 -- copy cc_detail table
 
 COPY cc_detail
-FROM 'D:\credit_card.csv' 
+FROM 'D:\credit_card.csv' --here you have to put your file location where you saved it.
 DELIMITER ',' 
 CSV HEADER;
 
