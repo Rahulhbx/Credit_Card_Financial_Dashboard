@@ -64,8 +64,6 @@ FROM 'D:\customer.csv'
 DELIMITER ',' 
 CSV HEADER;
 
-
-
 -- If you are getting below error, then use the below point:  
    -- ERROR:  date/time field value out of range: "0"
    -- HINT:  Perhaps you need a different "datestyle" setting.
