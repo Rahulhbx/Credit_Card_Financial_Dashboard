@@ -4,7 +4,6 @@
 CREATE DATABASE ccdb;
 
 -- 1. Create cc_detail table
-
 CREATE TABLE cc_detail (
     Client_Num INT,
     Card_Category VARCHAR(20),
