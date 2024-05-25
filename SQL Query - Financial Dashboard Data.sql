@@ -25,7 +25,6 @@ CREATE TABLE cc_detail (
     Delinquent_Acc VARCHAR(5)
 );
 
-
 -- 2. Create cc_detail table
 
 CREATE TABLE cust_detail (
