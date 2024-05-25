@@ -74,7 +74,6 @@ SET datestyle TO 'ISO, DMY';
 
 -- Now, try to COPY the csv files!
 
-
 -- 4. Insert additional data into SQL, using same COPY function
 
 -- copy additional data (week-53) in cc_detail table
